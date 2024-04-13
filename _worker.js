@@ -5,7 +5,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '90784dde-b79d-42eb-9936-90b5f56a05bd';
 
 const proxyIPs = ['mtn.ircf.space', 'mkh.ircf.space', 'mci.ircf.space', 'rtl.ircf.space'];
-let proxyIP = '	3.28.113.118';
+let proxyIP = '3.28.113.118';
 
 let dohURL = 'https://1.1.1.1/dns-query';
 // (dohURL) list :
